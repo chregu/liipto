@@ -23,6 +23,12 @@ localinc/Zend/Log:
   type: svn
   revision: 11205
   remote: braid/localinc/Zend/Log
+ext/qr: 
+  squashed: true
+  url: https://svn.liip.ch/repos/public/ext/qr/trunk
+  type: svn
+  revision: 10364
+  remote: braid/ext/qr
 www/static/yui/2-7-0: 
   squashed: true
   url: https://svn.liip.ch/repos/public/externals/yui/yui-2.7.0/build
