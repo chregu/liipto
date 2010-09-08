@@ -23,3 +23,9 @@ localinc/Zend/Log:
   type: svn
   revision: 11205
   remote: braid/localinc/Zend/Log
+www/static/yui/2-7-0: 
+  squashed: true
+  url: https://svn.liip.ch/repos/public/externals/yui/yui-2.7.0/build
+  type: svn
+  revision: 11356
+  remote: braid/www/static/yui/2-7-0
